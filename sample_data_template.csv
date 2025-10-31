@@ -1,0 +1,15 @@
+Stat Category,Home Team Value,Away Team Value,Notes
+Team Name,Toronto Maple Leafs,Boston Bruins,Enter full team names
+Massey Rating,85.2,83.7,From masseyratings.com
+Expected Goals %,52.3,47.7,From Natural Stat Trick
+High-Danger Chances %,51.8,48.2,From Natural Stat Trick
+Corsi %,53.1,46.9,From Natural Stat Trick
+Fenwick %,52.8,47.2,From Natural Stat Trick
+Last 10 Wins,7,5,Recent form
+Last 10 Losses,3,5,Must add to 10 with wins
+Goalie Save %,0.918,0.912,Enter as decimal (e.g. 0.915)
+Goalie GAA,2.35,2.68,Goals Against Average
+Power Play %,24.5,21.2,Special teams
+Penalty Kill %,82.3,79.8,Special teams
+Days of Rest,2,1,Days since last game
+Injury Impact,2,4,Scale 0-10 (0=none 10=severe)
